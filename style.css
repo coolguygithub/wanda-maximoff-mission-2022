@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.display-flex{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 10px 160px;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 10px;
+}
+.title-header{
+    border-left: 3px solid #D01111;
+    padding-left: 10px;
+}
+.title {
+    font-family: 'Yeseva One', cursive;
+    font-size: 35px;
+}
+.witch-color{
+    color: #D01111;
+}
+button{
+    color: white;
+    background-image: linear-gradient(#D01111, #ae1a28, #c1816c);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.pastlife-section{
+    margin: 0 12%;
+}
+.pastlife-section h1, .wanda-vs-strange h1{
+    text-align: center;
+}
+.story-box{
+    padding: 10px;
+}
+.story-box div{
+    height: 400px;
+    padding: 10px;
+}
+.story-box img{
+    width: 70%;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.story-box-1{
+    background-color: rgba(173, 216, 230, 0.3);
+}
+.story-box-2{
+    background-color: rgba(144, 238, 144, 0.5);
+}
+.story-box-3{
+    background-color: rgba(240, 128, 128, 0.3);
+}
+.westview-anomaly, .westview-aftermath, .wanda-vs-strange, .uniqueness{
+    margin: 5% 12%;
+}
+.westview-anomaly img, .westview-aftermath img{
+    width: 250px;
+    padding: 10px;
+    border-radius: 25px;
+}
+.wanda-vs-strange img{
+    width: 100%;
+}
+.westview-article{
+    padding: 20px 30px;
+}
+.wanda-vs-strange-img{
+    margin: 10px;
+}
+.black{
+    color: black;
+}
+.footer{
+    color: #f0decb;
+    background-color: #15070e;
+    padding: 10px;
+    text-align: center;
+}
+.footer h3{
+    font-family: 'Yeseva One', cursive;
+}
+.footer a{
+    text-decoration: none;
+}
